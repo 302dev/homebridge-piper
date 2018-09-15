@@ -19,8 +19,13 @@ As currently there is no public API available, this plugin works in combination 
               {
                 "type": "SecuritySystem",
                 "id": "security",
-                "name": "Alarmsysteem"
-              }
+                "name": "Piper Alarm System"
+              },
+                {
+                    "type": "MotionSensor",
+                    "id": "motionsensor",
+                    "name": "Piper Motion Sensor"
+                }
             ]
         }
     ]
