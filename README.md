@@ -1,4 +1,7 @@
 #Piper homebridge plugin
+
+I need to update the below instructions to make them clearer to the end user.
+
 This is a [homebridge](https://github.com/nfarina/homebridge) plugin for the [Piper](https://getpiper.com) security system.
 As currently there is no public API available, this plugin works in combination with [IFTTT](https://ifttt.com) rules.
 
