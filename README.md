@@ -32,6 +32,7 @@ As currently there is no public API available, this plugin works in combination 
     ...
 }
 ```
+The camera isn't listed here since i don't know how to handle that yet. Maybe through the z-wave api?
 
 ##Configuration requirements
 The following configurations need to be performed for the homebridge-piper plugin to run:
